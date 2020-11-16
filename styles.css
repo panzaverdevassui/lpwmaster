@@ -1,0 +1,62 @@
+.body {
+    background: #f8f9fa;
+}
+.principal {
+    margin-top:50px;
+    font-family: 'Roboto';
+}
+
+/*tarjeta 1*/
+.card-header-first {
+    margin-top:-40px;
+    height: 120px;
+    background: linear-gradient(-90deg, #8f019f, #f28A57);
+    box-shadow: 1px 5px #a2a2a2;
+}
+ 
+/*tarjeta 2*/
+.card-header-second{
+    box-shadow:1px 7px 15px #a2a2a2;
+    margin:-25px -25px 0px -25px;
+    height: 120px;
+    background: linear-gradient(-90deg, #8E2DE2, #4A00E0);
+}
+
+/*tarjeta 3*/
+.card-header-third{
+    margin-top:-25px;
+    height: 120px;
+    box-shadow: 1px 5px 15px #a2a2a2;
+    background: linear-gradient(-90deg, #11998e, #38ef7d);
+}
+
+.card-section-third span {
+    padding:17px;
+    margin:0px 10px;
+    color:#ffff;
+    height: 50px;
+
+}
+.card-header-four {
+    margin-top:-40px;
+    height: 120px;
+    background: linear-gradient(-90deg, #19248a, #83caeb);
+    box-shadow: 1px 5px #a2a2a2;
+}
+
+ 
+/*tarjeta 5*/
+.card-header-five{
+    box-shadow:1px 7px 15px #a2a2a2;
+    margin:-25px -25px 0px -25px;
+    height: 120px;
+    background: linear-gradient(-90deg, #8E2DE2, #4A00E0);
+}
+
+/*tarjeta 6*/
+.card-header-six{
+    margin-top:-25px;
+    height: 120px;
+    box-shadow: 1px 5px 15px #a2a2a2;
+    background: linear-gradient(-90deg, #11998e, #38ef7d);
+}
