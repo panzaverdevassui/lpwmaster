@@ -2,8 +2,8 @@
   "name": "lpwmaster",
   "version": "1.5.4",
   "description": "",
-  "main": "index.js",
-  "scripts": {
+  "main": "index.js", 
+    "scripts": {
     "start": "node index.js"
   },
   "keywords": [],

@@ -7,7 +7,7 @@ app.listen(3610, () => {
     console.log('Aplicacion corriendo en el puerto 3610')
 });
 
-app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/public')); 
 
 //Routes o rutas
 app.get('/', (request, response) => {
